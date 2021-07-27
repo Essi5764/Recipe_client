@@ -4,7 +4,7 @@ This Full Stack MERN Social Media App project to allow users to share recipes us
 
 The following repo is dedicated to the client, this will allow me to deploy easily. 
 
-Disclaimer: Although I made my own verion, this project was inspired by Javascript Mastery Courses on Youtube.
+Disclaimer: Although I made my own version, this project was inspired by Javascript Mastery Courses on Youtube.
 
 ## Resources
 
